@@ -67,6 +67,6 @@ p {
 }
 
 .btn-instagram { 
-    background: linear-pressed, 45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%;
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
     background-color: #E1306C; /* Color sólido de respaldo si no soporta degradado */
 }
